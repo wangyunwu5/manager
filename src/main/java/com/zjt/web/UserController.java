@@ -240,7 +240,10 @@ public void putTmenuOneClassListIntoSession(HttpSession session){
 }
 
 
-
+public String test() {
+	 System.out.println("我爱你，知道我生命最后一刻");
+	return "success";
+}
 
 
 
